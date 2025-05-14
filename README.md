@@ -27,11 +27,11 @@ A simple and responsive web-based tool to convert between various CSS units, bui
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarwar12/css-unit-converter.git
+   git clone https://github.com/sarwar12/CSS-Unit-Converter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd css-unit-converter
+   cd CSS-Unit-Converter
    ```
 3. Open `index.html` or `about.html` in a web browser. No server is required as the project uses CDN for Tailwind CSS and Font Awesome.
 
