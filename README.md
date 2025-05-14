@@ -27,7 +27,7 @@ A simple and responsive web-based tool to convert between various CSS units, bui
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarwar12/css-unit-converter.git
+   git clone https://github.com/sarwar12/CSS-Unit-Converter.git
    ```
 2. Navigate to the project directory:
    ```bash
