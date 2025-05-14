@@ -31,7 +31,7 @@ A simple and responsive web-based tool to convert between various CSS units, bui
    ```
 2. Navigate to the project directory:
    ```bash
-   cd css-unit-converter
+   cd CSS-Unit-Converter
    ```
 3. Open `index.html` or `about.html` in a web browser. No server is required as the project uses CDN for Tailwind CSS and Font Awesome.
 
